@@ -1,23 +1,21 @@
 # Hello World! I'm Neto. 😊
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssneto/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](http://twitter.com/oinconquistado)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/oinconquistado)
+<a href="mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!" target="_blank">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/ssneto/" target="_blank">![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="http://twitter.com/oinconquistado" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://telegram.me/oinconquistado" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conhecimentos em React Native, VueJS e NodeJS no BackEnd — boa parte das vezes preciso consultar com muita frequência o Stackoverflow para resolver problemas no backend, mas confia, a entrega saí. 😂
-
 &nbsp;
 
-### Skills:
+### Fun facts que não são necessariamente tão fun 🤪:
 
 - Entusiasta do Vivaldi Browser. 🧭
 - Fã mais chato do Sherlock Holmes. 🕵🏼‍♀️
-- Usuário assíduo do TweetDeck 🐦 e por isso criei o [TweetDracula](https://github.com/oinconquistado/tweetDracula). 🦇
+- Usuário assíduo do TweetDeck 🐦 e por isso criei o <a href="https://github.com/oinconquistado/tweetDracula" target="_blank"> tweetDracula</a>. 🦇
 - Eu tenho gostos estranhos, você não entenderia. Exemplo: CSS 🎨.
 - Sou completamente apaixonado ❤️ pela Suíça 🫕 e pretendo morar lá.
 
-&nbsp;
 &nbsp;
 
 ### **Tecnologias com as quais sei codificar:**
