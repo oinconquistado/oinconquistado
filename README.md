@@ -1,10 +1,60 @@
-- 👋 Hi, I’m @oinconquistado
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello World! I'm Neto. 😊
 
-<!---
-oinconquistado/oinconquistado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssneto/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](http://twitter.com/oinconquistado)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/oinconquistado)
+
+Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conhecimentos em React Native, VueJS e NodeJS no BackEnd — boa parte das vezes preciso consultar com muita frequência o Stackoverflow para resolver problemas no backend, mas confia, a entrega saí. 😂
+
+&nbsp;
+
+### Skills:
+
+- Entusiasta do Vivaldi Browser. 🧭
+- Fã mais chato do Sherlock Holmes. 🕵🏼‍♀️
+- Usuário assíduo do TweetDeck 🐦 e por isso criei o [TweetDracula](https://github.com/oinconquistado/tweetDracula). 🦇
+- Eu tenho gostos estranhos, você não entenderia. Exemplo: CSS 🎨.
+- Sou completamente apaixonado ❤️ pela Suíça 🫕 e pretendo morar lá.
+
+&nbsp;
+&nbsp;
+
+### **Tecnologias com as quais sei codificar:**
+
+---
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-4ac9be.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-51b7b5.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-dd6f93?style=for-the-badge&logo=styled-components&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+&nbsp;
+
+### **Recursos aos quais sei utilizar mesmo não sendo um especialista em alguns deles:**
+
+---
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-f2c22f?style=for-the-badge&logo=Firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
