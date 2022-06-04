@@ -1,4 +1,4 @@
-# Hello World! I'm Neto. 😊
+# Hello World, i'm Neto. 😊👋
 
 <a href="mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!" target="_blank">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ssneto/" target="_blank">![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -51,7 +51,8 @@ Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conh
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-f2c22f?style=for-the-badge&logo=Firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-f2c803?style=for-the-badge&logo=Firebase&logoColor=black)
+![Netfly](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <!--START_SECTION:waka-->
