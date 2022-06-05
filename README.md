@@ -56,4 +56,10 @@ Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conh
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   10 hrs 3 mins   ██████████▓░░░░░░░░░░░░░░   43.13 %
+Other        7 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 %
+```
+
 <!--END_SECTION:waka-->
