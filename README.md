@@ -18,6 +18,11 @@ Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conh
 
 &nbsp;
 
+### Minhas estatísticas de desenvolvimento: 📊🤓
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### **Tecnologias com as quais sei codificar:**
 
 ---
@@ -54,6 +59,3 @@ Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conh
 ![Firebase](https://img.shields.io/badge/Firebase-f2c803?style=for-the-badge&logo=Firebase&logoColor=black)
 ![Netfly](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
