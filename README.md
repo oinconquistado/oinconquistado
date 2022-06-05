@@ -18,13 +18,15 @@ Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conh
 
 &nbsp;
 
-### Minhas estatísticas de desenvolvimento: 📊🤓
+### Minhas estatísticas de desenvolvimento nesta semana: 📊🤓
 
 <!--START_SECTION:waka-->
 
 ```text
+
 TypeScript   10 hrs 3 mins   ██████████▓░░░░░░░░░░░░░░   43.13 %
 Other        7 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 %
+
 ```
 
 <!--END_SECTION:waka-->
