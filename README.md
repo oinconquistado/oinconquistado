@@ -1,4 +1,4 @@
-# Hello World, i'm Neto. 😊👋
+# Hello World! 🌍 I'm Neto. 😊👋
 
 <a href="mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!" target="_blank">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ssneto/" target="_blank">![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
