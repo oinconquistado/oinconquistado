@@ -23,10 +23,12 @@ Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conh
 <!--START_SECTION:waka-->
 
 ```text
+From: 29 May 2022 - To: 05 June 2022
 
-TypeScript   10 hrs 3 mins   ██████████▓░░░░░░░░░░░░░░   43.13 %
-Other        7 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Total Time: 15 hrs 33 mins
 
+TypeScript   10 hrs 3 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.13 %
+Other        7 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.32 %
 ```
 
 <!--END_SECTION:waka-->
