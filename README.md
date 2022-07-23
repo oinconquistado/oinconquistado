@@ -20,22 +20,6 @@ Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conh
 
 ### Minhas estatísticas de desenvolvimento nesta semana: 📊🤓
 
-<!--START_SECTION:waka-->
-
-```text
-From: 15 July 2022 - To: 22 July 2022
-
-Total Time: 11 hrs 24 mins
-
-TypeScript   9 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.66 %
-HTML         1 hr 2 mins     ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.99 %
-JSON         29 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.21 %
-JavaScript   16 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.31 %
-Other        14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.10 %
-```
-
-<!--END_SECTION:waka-->
-
 ### **Tecnologias com as quais sei codificar:**
 
 ---
