@@ -30,7 +30,7 @@ with my knowledge and experience.
 
 ### **Technologies:**
 
-<p align="left" style="display: flex; gap: 1.5rem; padding: 1rem">
+<p>
 <img alt="HTML 5" title="HTML 5" src="./icons/html.svg"/>
 <img alt="CSS 3" title="CSS 3" src="./icons/css.svg"/>
 <img alt="JavaScript" title="JavaScript" src="./icons/javascript.svg"/>
@@ -43,41 +43,22 @@ with my knowledge and experience.
 ### **Others technologies:**
 
 <br>
+<p>
+<img alt="SASS" title="SAAS" src="./icons/cssFrameworks/sass.svg"/>
+<img alt="Bootstrap" title="Bootstrap" src="./icons/cssFrameworks/bootstrap.svg"/>
+<img alt="Chakra UI" title="Chakra UI" src="./icons/cssFrameworks/chakraui.svg">
+<img alt="Tailwind CSS" title="Tailwind CSS" src="./icons/cssFrameworks/tailwindcss.svg">
+<img alt="React Router" title="React Router" src="./icons/reactLibs/reactrouter.svg">
+<img alt="TanStack Query" title="TanStack Query" src="./icons/reactLibs/reactquery.svg">
+<img alt="Firebase" title="Firebase" src="./icons/others/firebase.svg">
 
-<table>
-<tr>
-    <td><img alt="SASS" title="SAAS" src="./icons/cssFrameworks/sass.svg"/></td>
-    <td><img alt="Bootstrap" title="Bootstrap" src="./icons/cssFrameworks/bootstrap.svg"/></td>
-    <td><img alt="Chakra UI" title="Chakra UI" src="./icons/cssFrameworks/chakraui.svg">
-    <td><img alt="Tailwind CSS" title="Tailwind CSS" src="./icons/cssFrameworks/tailwindcss.svg">
-    <td><img alt="React Router" title="React Router" src="./icons/reactLibs/reactrouter.svg">
-    <td><img alt="TanStack Query" title="TanStack Query" src="./icons/reactLibs/reactquery.svg">
-    <td><img alt="Firebase" title="Firebase" src="./icons/others/firebase.svg">
-    </td>
-
-</tr>
-</table>
+</p>
 <br>
 
 ### **Contact me**
 
-<table>
-<tr>
-    <td>
-    <a title="Find me on LinkedIn." href="https://www.linkedin.com/in/ssneto/" target="_blank">
-    <img src="./icons/contact/linkedin.svg">
-    </a>
-    </td>   
-    <td>
-    <a  title="You can mail me." href="mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!" target="_blank">
-    <img src="./icons/contact/gmail.svg">
-    </a>
-    </td>
-    <td>
-    <a title="I'm on telegram too."  href="https://telegram.me/oinconquistado" target="_blank">
-    <img src="./icons/contact/telegram.svg">
-    </a>
-    </td>
-
-</tr>
-</table>
+<div style="display: flex; gap: 1rem" >
+<a title="Find me on LinkedIn." href="https://www.linkedin.com/in/ssneto/" target="_blank"> <img src="./icons/contact/linkedin.svg"></a>
+<a  title="You can mail me." href="mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!" target="_blank"> <img src="./icons/contact/gmail.svg"></a><span><span>
+<a title="I'm on telegram too."  href="https://telegram.me/oinconquistado" target="_blank"> <img src="./icons/contact/telegram.svg"></a>
+</div>
