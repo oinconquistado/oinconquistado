@@ -1,5 +1,16 @@
 ## Hello World! 🌍 I'm Neto. 😊👋
 
+<style>
+    :root {
+        background: #000;
+        
+    }
+    * {
+    color: #fff; 
+    }
+
+</style>
+
 I have a bachelor's degree in Computer Science and am a front-end developer — precisely focused on
 ReactJS with Typescript. I'm currently looking for a position in the market where I can contribute
 with my knowledge and experience.
@@ -19,20 +30,15 @@ with my knowledge and experience.
 
 ### **Technologies:**
 
-<br>
-
-<table> 
-<tr>
-    <td><img alt="HTML 5" title="HTML 5" src="./icons/html.svg"/></td>
-    <td><img alt="CSS 3" title="CSS 3" src="./icons/css.svg"/></td>
-    <td><img alt="JavaScript" title="JavaScript" src="./icons/javascript.svg"/></td>
-    <td><img alt="Typescript" title="Typescript" src="./icons/typescript.svg"/></td>
-    <td><img alt="NodeJS" title="NodeJS" src="./icons/nodejs/nodejs.svg"/></td>
-    <td><img alt="React JS" title="React JS" src="./icons/react.svg"/></td>
-    <td><img alt="NextJS" title="NextJS" src="./icons/others/nextjs.svg">
-
-</tr>
-</table>
+<p align="left" style="display: flex; gap: 1.5rem; padding: 1rem">
+<img alt="HTML 5" title="HTML 5" src="./icons/html.svg"/>
+<img alt="CSS 3" title="CSS 3" src="./icons/css.svg"/>
+<img alt="JavaScript" title="JavaScript" src="./icons/javascript.svg"/>
+<img alt="Typescript" title="Typescript" src="./icons/typescript.svg"/>
+<img alt="NodeJS" title="NodeJS" src="./icons/nodejs/nodejs.svg"/>
+<img alt="React JS" title="React JS" src="./icons/react.svg"/>
+<img alt="NextJS" title="NextJS" src="./icons/others/nextjs.svg">
+</p>
 
 ### **Others technologies:**
 
