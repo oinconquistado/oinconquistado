@@ -1,58 +1,84 @@
-# Hello World! 🌍 I'm Neto. 😊👋
+## Hello World! 🌍 I'm Neto. 😊👋
 
-<a href="mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!" target="_blank">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/ssneto/" target="_blank">![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="http://twitter.com/oinconquistado" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://telegram.me/oinconquistado" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+I have a bachelor's degree in Computer Science and am a front-end developer — precisely focused on
+ReactJS with Typescript. I'm currently looking for a position in the market where I can contribute
+with my knowledge and experience.
 
-Sou um desenvoledor FrontEnd focado em ReactJS com Typescript, mas com bons conhecimentos em React Native, VueJS e NodeJS no BackEnd — boa parte das vezes preciso consultar com muita frequência o Stackoverflow para resolver problemas no backend, mas confia, a entrega saí. 😂
-&nbsp;
+<br>
 
-### Fun facts que não são necessariamente tão fun 🤪:
+### **My portfolio:**
 
-- Entusiasta do Vivaldi Browser. 🧭
-- Fã mais chato do Sherlock Holmes. 🕵🏼‍♀️
-- Usuário assíduo do TweetDeck 🐦 e por isso criei o <a href="https://github.com/oinconquistado/tweetDracula" target="_blank"> tweetDracula</a>. 🦇
-- Eu tenho gostos estranhos, você não entenderia. Exemplo: CSS 🎨.
-- Sou completamente apaixonado ❤️ pela Suíça 🫕 e pretendo morar lá.
+<br>
 
-&nbsp;
+- [**Guten**](https://guten.app/): A web app that lets you read articles without the harassment of
+  paywalls, ads, and trackers. It's a simple, distraction-free reading experience. This project uses
+  Reactjs, some libraries, such as React Router, and works in a serveless function, this tool is in
+  production in Vercel integrated with Google Domains.
 
-### Minhas estatísticas de desenvolvimento nesta semana: 📊🤓
+<br>
 
-### **Tecnologias com as quais sei codificar:**
+<style>
+    th {
+        display: none;
+    }
 
----
+</style>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-4ac9be.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-51b7b5.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-dd6f93?style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+### **Technologies:**
 
-&nbsp;
+<br>
 
-### **Recursos aos quais sei utilizar mesmo não sendo um especialista em alguns deles:**
+<table> 
+<tr>
+    <td><img alt="HTML 5" title="HTML 5" src="./icons/html.svg"/></td>
+    <td><img alt="CSS 3" title="CSS 3" src="./icons/css.svg"/></td>
+    <td><img alt="JavaScript" title="JavaScript" src="./icons/javascript.svg"/></td>
+    <td><img alt="Typescript" title="Typescript" src="./icons/typescript.svg"/></td>
+    <td><img alt="NodeJS" title="NodeJS" src="./icons/nodejs/nodejs.svg"/></td>
+    <td><img alt="React JS" title="React JS" src="./icons/react.svg"/></td>
+    <td><img alt="NextJS" title="NextJS" src="./icons/others/nextjs.svg">
 
----
+</tr>
+</table>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-f2c803?style=for-the-badge&logo=Firebase&logoColor=black)
-![Netfly](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+### **Others technologies:**
+
+<br>
+
+<table>
+<tr>
+    <td><img alt="SASS" title="SAAS" src="./icons/cssFrameworks/sass.svg"/></td>
+    <td><img alt="Bootstrap" title="Bootstrap" src="./icons/cssFrameworks/bootstrap.svg"/></td>
+    <td><img alt="Chakra UI" title="Chakra UI" src="./icons/cssFrameworks/chakraui.svg">
+    <td><img alt="Tailwind CSS" title="Tailwind CSS" src="./icons/cssFrameworks/tailwindcss.svg">
+    <td><img alt="React Router" title="React Router" src="./icons/reactLibs/reactrouter.svg">
+    <td><img alt="TanStack Query" title="TanStack Query" src="./icons/reactLibs/reactquery.svg">
+    <td><img alt="Firebase" title="Firebase" src="./icons/others/firebase.svg">
+    </td>
+
+</tr>
+</table>
+<br>
+
+### **Contact me**
+
+<table>
+<tr>
+    <td>
+    <a title="Find me on LinkedIn." href="https://www.linkedin.com/in/ssneto/" target="_blank">
+    <img src="./icons/contact/linkedin.svg">
+    </a>
+    </td>   
+    <td>
+    <a  title="You can mail me." href="mailto:ssneto88@gmail.com?subject=Vim%20pelo%20Github!" target="_blank">
+    <img src="./icons/contact/gmail.svg">
+    </a>
+    </td>
+    <td>
+    <a title="I'm on telegram too."  href="https://telegram.me/oinconquistado" target="_blank">
+    <img src="./icons/contact/telegram.svg">
+    </a>
+    </td>
+
+</tr>
+</table>
