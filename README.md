@@ -17,13 +17,6 @@ with my knowledge and experience.
 
 <br>
 
-<style>
-    th {
-        display: none;
-    }
-
-</style>
-
 ### **Technologies:**
 
 <br>
